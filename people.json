@@ -39,8 +39,8 @@
                        },
                         {
                             "Id": 3,
-                            "FirstName": "Lee",
-                            "LastName": "Dixon",
+                            "FirstName": "Jens",
+                            "LastName": "Lehman",
                             "Company": "Vauxhall Motors",
                             "JobTitle": "Car Dealer",
                             "BusinessPhone": "850-555-0113",
@@ -51,9 +51,9 @@
                             "City": "Tallahassee",
                             "State": "Florida",
                             "Country": "USA",
-                            "Email": "Lee.Dixon@northend.com",
+                            "Email": "Jens.Lehman@northend.com",
                             "WebPage": "www.northend.com",
-                            "ImageURL": "https://raw.githubusercontent.com/bigkype/resources/master/images/lee-dixon.jpg",
+                            "ImageURL": "https://raw.githubusercontent.com/bigkype/resources/master/images/jens-lehman.jpg",
                             "Notes": " "
                         }
                   ];
