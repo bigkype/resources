@@ -15,30 +15,32 @@
                           "Country": "USA",
                           "Email": "Tony.Adams@yuengling.net",
                           "WebPage": "Tony.Adams.yuengling.net",
-                          "Notes": " "                          
+                          "ImageURL": "https://raw.githubusercontent.com/bigkype/resources/master/images/tony-adams.jpg",
+                          "Notes": " "
                       },
                       {
                            "Id" : 2,
-                           "FirstName": "Chelsea",
-                           "LastName": "Fulham",
+                           "FirstName": "Dennis",
+                           "LastName": "Bergkamp",
                            "Company": "None",
                            "JobTitle": "Pensioner",
                            "BusinessPhone": "N/A",
-                           "HomePhone": "804-555-9565",
-                           "MobilePhone": "804-555-2149",
+                           "HomePhone": "212-555-9565",
+                           "MobilePhone": "212-555-2149",
                            "FaxNumber": "N/A",
                            "Street": "809 Aberdeen Road",
-                           "City": "Hampton",
-                           "State": "Virginia",
+                           "City": "New Holland",
+                           "State": "New York",
                            "Country": "USA",
-                           "Email": "cfulham@hammersmith.co.uk",
+                           "Email": "dbergkamp@hammersmith.co.uk",
                            "WebPage": "hammersmith.co.uk",
+                           "ImageURL": "https://raw.githubusercontent.com/bigkype/resources/master/images/dennis-bergkamp.jpg",
                            "Notes": " "
                        },
                         {
                             "Id": 3,
-                            "FirstName": "Preston",
-                            "LastName": "Watford",
+                            "FirstName": "Lee",
+                            "LastName": "Dixon",
                             "Company": "Vauxhall Motors",
                             "JobTitle": "Car Dealer",
                             "BusinessPhone": "850-555-0113",
@@ -49,8 +51,9 @@
                             "City": "Tallahassee",
                             "State": "Florida",
                             "Country": "USA",
-                            "Email": "pwatford@northend.com",
+                            "Email": "Lee.Dixon@northend.com",
                             "WebPage": "www.northend.com",
+                            "ImageURL": "https://raw.githubusercontent.com/bigkype/resources/master/images/lee-dixon.jpg",
                             "Notes": " "
                         }
                   ];
